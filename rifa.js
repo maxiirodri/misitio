@@ -6,7 +6,7 @@
 const vendidos = ["03", "17", "55", "88"]; 
 
 // Tu número de WhatsApp (con código de país)
-const telefono = "5493875XXXXXX";
+const telefono = "5492477337784";
 
 
 // ===============================
