@@ -3,7 +3,7 @@
 // ===============================
 
 // Poné acá los números vendidos
-const vendidos = ["03", "17", "55", "88"]; 
+const vendidos = ["03", "17", "55"]; 
 
 // Tu número de WhatsApp (con código de país)
 const telefono = "5492477337784";
@@ -15,7 +15,7 @@ const telefono = "5492477337784";
 
 const contenedor = document.querySelector('.numeros-grid');
 
-for (let i = 0; i < 100; i++) {
+for (let i = 1; i < 71; i++) {
   const numeroFormateado = i.toString().padStart(2, '0');
 
   const div = document.createElement('div');
