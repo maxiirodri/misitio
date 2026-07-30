@@ -15,7 +15,7 @@ const telefono = "5492477337784";
 
 const contenedor = document.querySelector('.numeros-grid');
 
-for (let i = 1; i < 71; i++) {
+for (let i = 1; i < 121; i++) {
   const numeroFormateado = i.toString().padStart(2, '0');
 
   const div = document.createElement('div');
