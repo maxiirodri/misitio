@@ -250,3 +250,30 @@ footer {
   background: #ffdddd;
   color: #b00000;
 }
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px 0;
+  color: #555;
+}
+
+
+
+.redes {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.icono {
+  font-size: 28px;
+  color: #333;
+  transition: 0.2s;
+}
+
+.icono:hover {
+  color: #4a90e2;
+  transform: scale(1.2);
+}
+
